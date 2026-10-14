@@ -1,0 +1,5 @@
+{
+  "name": "verif-prompt",
+  "version": "0.1.0",
+  "description": "Valide chaque prompt avec Haiku avant l'envoi et propose des améliorations quand il manque de détails."
+}

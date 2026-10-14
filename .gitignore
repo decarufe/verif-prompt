@@ -1,0 +1,14 @@
+# Types générés par Claude Code à chaque chargement du mod
+.claude-plugin/types/
+tsconfig.json
+
+# Configuration locale et secrets
+.env
+.env.*
+*.local.json
+.claude/settings.local.json
+
+# Dépendances et fichiers système
+node_modules/
+.DS_Store
+Thumbs.db

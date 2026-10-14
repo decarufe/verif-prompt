@@ -1,0 +1,5 @@
+{
+  "name": "verif-prompt",
+  "owner": { "name": "decarufe" },
+  "plugins": [{ "name": "verif-prompt", "source": "./" }]
+}
